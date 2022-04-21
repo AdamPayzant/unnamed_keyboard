@@ -1,0 +1,16 @@
+[submodule "kicad/libs/marbastlib"]
+	path = kicad/libs/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
+    branch = untested
+[submodule "kicad/libs/ProMicroKiCad"]
+	path = kicad/libs/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad.git
+[submodule "kicad/libs/Keebio-Parts.pretty"]
+	path = kicad/libs/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "kicad/libs/keebio-components"]
+	path = kicad/libs/keebio-components
+	url = https://github.com/keebio/keebio-components.git
+[submodule "kicad/libs/MX_Alps_Hybrid"]
+	path = kicad/libs/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
